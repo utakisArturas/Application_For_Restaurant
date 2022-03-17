@@ -1,0 +1,22 @@
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\Csv Files\Drinks.csv
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\Csv Files\Foods.csv
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\WaitersApp.exe.config
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\WaitersApp.exe
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\WaitersApp.pdb
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\FluentEmail.Core.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\FluentEmail.Smtp.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\FluentValidation.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\LINQtoCSV.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\FluentValidation.xml
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.csproj.CopyComplete
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.exe
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.pdb
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\obj\Debug\WaitersApp.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\xunit.abstractions.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\xunit.core.dll
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\xunit.abstractions.xml
+C:\Users\utaki\Documents\Code\WaitersApp\WaitersApp\bin\Debug\xunit.core.xml
