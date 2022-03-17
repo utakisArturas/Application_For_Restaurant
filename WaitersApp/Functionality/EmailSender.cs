@@ -76,7 +76,7 @@ namespace WaitersApp
                 var sender = new SmtpSender(() => new SmtpClient("smtp.gmail.com")
                 {
                     UseDefaultCredentials = false,
-                    Credentials = new NetworkCredential("utakis.arturas@gmail.com", "Nemunas1992@"),
+                    Credentials = new NetworkCredential("utakis.arturas@gmail.com", "xxxxxxxxxxx"),
                     EnableSsl = true,
                     DeliveryMethod = SmtpDeliveryMethod.Network,
                     Port = 587
